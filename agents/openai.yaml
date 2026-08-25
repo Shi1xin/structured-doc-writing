@@ -1,0 +1,4 @@
+interface:
+  display_name: "Structured Doc Writing"
+  short_description: "Structure work docs and remove slop"
+  default_prompt: "Use $structured-doc-writing to tighten this work document."

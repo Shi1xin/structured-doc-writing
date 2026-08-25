@@ -1,0 +1,14 @@
+{
+  "name": "structured-doc-writing-tools",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Deterministic Markdown typography checks for the structured-doc-writing skill",
+  "scripts": {
+    "format": "node scripts/format-markdown.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "textlint": "15.8.0",
+    "zhlint": "0.8.2"
+  }
+}
