@@ -1,6 +1,6 @@
 ---
 name: structured-doc-writing
-description: Use only for workplace, product, and technical documents such as PRDs, requirements, plans, notes, design briefs, and handoffs. Do not use for academic writing
+description: Use only for creating or revising workplace, product, or technical documents intended for external delivery.
 ---
 
 # Structured Doc Writing
